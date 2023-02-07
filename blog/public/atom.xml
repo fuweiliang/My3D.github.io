@@ -6,7 +6,7 @@
   <link href="https://gitee.com/fuweiliang/hexo.github.io/atom.xml" rel="self"/>
   
   <link href="https://gitee.com/fuweiliang/hexo.github.io/"/>
-  <updated>2023-02-07T12:25:23.009Z</updated>
+  <updated>2023-02-07T12:49:28.502Z</updated>
   <id>https://gitee.com/fuweiliang/hexo.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>相册文章</title>
+    <title>电子相册</title>
     <link href="https://gitee.com/fuweiliang/hexo.github.io/2023/02/07/Viveo/"/>
     <id>https://gitee.com/fuweiliang/hexo.github.io/2023/02/07/Viveo/</id>
     <published>2023-02-07T11:04:37.000Z</published>
-    <updated>2023-02-07T12:25:23.009Z</updated>
+    <updated>2023-02-07T12:49:28.502Z</updated>
     
     <content type="html"><![CDATA[<p>好久不见了大家，想起高中生活中的点点滴滴，现在依然觉得很美好，所以出于对回忆相册的便捷性，于是我把高中电子相册做成了网站，方便大家随时随地的查看电子相册，此网站一经发布上线永久在线！永久免费！可随时更新。虽然耗费较多精力，但是当回忆涌上心头还是很美好的。</p><div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?aid=294660781&bvid=BV1AF411z7EK&cid=455838385&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>]]></content>
     
@@ -35,6 +35,8 @@
     
     
     
+    
+    <category term="相册后续整理上线中，请大家耐心等待" scheme="https://gitee.com/fuweiliang/hexo.github.io/tags/%E7%9B%B8%E5%86%8C%E5%90%8E%E7%BB%AD%E6%95%B4%E7%90%86%E4%B8%8A%E7%BA%BF%E4%B8%AD%EF%BC%8C%E8%AF%B7%E5%A4%A7%E5%AE%B6%E8%80%90%E5%BF%83%E7%AD%89%E5%BE%85/"/>
     
   </entry>
   
