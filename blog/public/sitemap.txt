@@ -1,2 +1,2 @@
-https://gitee.com/fuweiliang/hexo.github.io.git/blog/public/2023/02/07/hello-world/
-https://gitee.com/fuweiliang/hexo.github.io.git/blog/public
+https://gitee.com/fuweiliang/hexo.github.io.git/2023/02/07/hello-world/
+https://gitee.com/fuweiliang/hexo.github.io.git
