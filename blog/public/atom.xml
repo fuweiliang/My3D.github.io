@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>回忆</title>
   
   
-  <link href="https://gitee.com/fuweiliang/hexo.github.io.git/public/atom.xml" rel="self"/>
+  <link href="https://gitee.com/fuweiliang/hexo.github.io.git/blog/public/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/fuweiliang/hexo.github.io.git/public/"/>
+  <link href="https://gitee.com/fuweiliang/hexo.github.io.git/blog/public/"/>
   <updated>2023-01-29T04:46:12.619Z</updated>
-  <id>https://gitee.com/fuweiliang/hexo.github.io.git/public/</id>
+  <id>https://gitee.com/fuweiliang/hexo.github.io.git/blog/public/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>付伟亮</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/fuweiliang/hexo.github.io.git/public/2023/02/07/hello-world/"/>
-    <id>https://gitee.com/fuweiliang/hexo.github.io.git/public/2023/02/07/hello-world/</id>
+    <link href="https://gitee.com/fuweiliang/hexo.github.io.git/blog/public/2023/02/07/hello-world/"/>
+    <id>https://gitee.com/fuweiliang/hexo.github.io.git/blog/public/2023/02/07/hello-world/</id>
     <published>2023-02-07T08:39:18.459Z</published>
     <updated>2023-01-29T04:46:12.619Z</updated>
     
