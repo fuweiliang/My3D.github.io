@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gitee.com/fuweiliang/hexo.github.io/2023/02/08/%E9%AB%98%E4%B8%8916%E7%8F%AD%E7%9A%84%E7%94%B5%E5%AD%90%E7%9B%B8%E5%86%8C/</loc>
+    
+    <lastmod>2023-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gitee.com/fuweiliang/hexo.github.io/2023/02/07/Viveo/</loc>
     
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://gitee.com/fuweiliang/hexo.github.io</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,7 +39,7 @@
   
   <url>
     <loc>https://gitee.com/fuweiliang/hexo.github.io/tags/%E7%9B%B8%E5%86%8C%E5%90%8E%E7%BB%AD%E6%95%B4%E7%90%86%E4%B8%8A%E7%BA%BF%E4%B8%AD%EF%BC%8C%E8%AF%B7%E5%A4%A7%E5%AE%B6%E8%80%90%E5%BF%83%E7%AD%89%E5%BE%85/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
