@@ -6,7 +6,7 @@
   <link href="https://gitee.com/fuweiliang/hexo.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://gitee.com/fuweiliang/hexo.github.io.git/"/>
-  <updated>2023-02-09T14:05:14.300Z</updated>
+  <updated>2023-02-11T14:36:25.148Z</updated>
   <id>https://gitee.com/fuweiliang/hexo.github.io.git/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>付伟亮的测试文章</title>
+    <link href="https://gitee.com/fuweiliang/hexo.github.io.git/2023/02/11/hello-world/"/>
+    <id>https://gitee.com/fuweiliang/hexo.github.io.git/2023/02/11/hello-world/</id>
+    <published>2023-02-11T14:36:25.148Z</published>
+    <updated>2023-02-11T14:36:25.148Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>高三16班的电子相册</title>
@@ -35,49 +55,6 @@
     
     
     <category term="相册后续整理上线中，请耐心等待" scheme="https://gitee.com/fuweiliang/hexo.github.io.git/tags/%E7%9B%B8%E5%86%8C%E5%90%8E%E7%BB%AD%E6%95%B4%E7%90%86%E4%B8%8A%E7%BA%BF%E4%B8%AD%EF%BC%8C%E8%AF%B7%E8%80%90%E5%BF%83%E7%AD%89%E5%BE%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的快乐时光</title>
-    <link href="https://gitee.com/fuweiliang/hexo.github.io.git/2023/02/07/Viveo/"/>
-    <id>https://gitee.com/fuweiliang/hexo.github.io.git/2023/02/07/Viveo/</id>
-    <published>2023-02-07T11:04:37.000Z</published>
-    <updated>2023-02-11T14:15:34.893Z</updated>
-    
-    <content type="html"><![CDATA[<p>地点：古章群</p><h2 id="我们得合照"><a href="#我们得合照" class="headerlink" title="我们得合照"></a>我们得合照</h2><p><img src="https://img-blog.csdnimg.cn/ab1f3d8ecc7a4d509e59822e7fab13ac.jpeg#pic_center" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/0f44c6056ed94b38b09caa6d89581a03.jpeg#pic_center" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/159b3050855f4ced850878ab04209434.jpeg#pic_center" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/8cf7b56a4c68440f8fd978186954e5f4.jpeg#pic_center" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/8f1a3985665c41739c2f957e47a96c76.jpeg#pic_center" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/68525bba53a5463e96f9d1d0300d8466.jpeg#pic_center" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/dc55c77834964fa19337775b29cc27d7.jpeg#pic_center" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/29885418d0cb4d178c14513a3cdc06b9.jpeg" alt="请添加图片描述"><br><img src="https://img-blog.csdnimg.cn/f0eed77cd9934575b3690931ee47ae98.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/bff0fecc72da4a029fe7eb6c06990dc4.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/97a5377abf1b448f8e211a1f6d2717bf.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/4421b824c789429ca948e28564ec54ce.jpeg" alt="请添加图片描述"><br><img src="https://img-blog.csdnimg.cn/dc83b5a15d2e4d17bcc3597e760d9dee.jpeg" alt="请添加图片描述"><br><img src="https://img-blog.csdnimg.cn/27cf01c7ceba4ba78a8e0030f0911646.jpeg" alt="请添加图片描述"><br><img src="https://img-blog.csdnimg.cn/d9893d997fc940fea637d6dd75cb0f46.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/b62d6a76c7104acb8529b8923b57fd7b.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/22e06318366d4f4da8158a7be4df8209.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/e900a27de5f8473abe1bb2d8c6542824.jpeg" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/2836227dff62449197a646eb8345e27d.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/a581d435436c448693ae448eecbe7292.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/800292db8b134adf8994b81d63b629cf.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/0d9580db24ed49d78f688516ea84b7c8.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/534582eff4324f6488969e8bbcc36440.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/c66077d35c2e4c11a98d673ba6e77c09.jpeg" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/46e3625089c148da970bb5bf69c59e69.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/75afb4670ead4db78d4c5bbcc8b7a4ef.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/e478120f25274e7591e74e7ab529c0c6.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/5b6221c2a26442478e26e8108897b889.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/c71f64499c5d4d91b4f51a08a5624753.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/9e1b2f2f17d6430ca2947568ee600744.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/7106907ad40b4570999a81d6b82c4bf3.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/ff2ff70b8f7a4d1da631c7dac044052c.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/bbf3e31ced054cf7bd3a29fead307339.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/9a6f79cca9f249d98b710049d6a47dd5.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/6a57bd88276b4916b3bb82bad53d8f95.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/59a3ac44a811410791d864ddbb738808.jpeg" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/323aab9bcb834e2a87f078ef69bedf6a.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/17baa7804a794e66956d4656485381b4.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/a16d9310aab34012b1c5188194778218.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/8144679907a445b9866e7cbc6b23e3c4.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/dc0a77b7efd945b48b98bf586133811d.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/21f6c6bd420b4406b56a7d88f0d3b857.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/4f24e5576b704132bef18122220bde0a.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/6370b3c5ed94465d8fe88bf281185f1e.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/a7131abbc91743cba734ead2cd655417.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/25e6e29b3ee0402cbda44fa0d3f11816.jpeg" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/ba06d8b297bb4326afd3bfaa16a9cc68.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/70024eff3da3499daff9f1680c7cab3f.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/a30246f5135c4713b9e47248e26081b0.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/f97d515fc93f40319b8982acb074991a.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/e0f4bed7362843a284c745ebe59f3468.jpeg" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/7db9e8ab8d1842e3adf5eafbe5d1828c.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/53643999f7fe495198705cbf03c6691b.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/309e92123431419cb38d3d804ac53390.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/52488554a12e44ee838fd9d690b54c5a.jpeg" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/2c226d3d8a5f480ba0d134d5242c7083.jpeg" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/f15fc7e1cc064474a0e995d65b6b666c.jpeg" alt="在这里插入图片描述"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;地点：古章群&lt;/p&gt;
-&lt;h2 id=&quot;我们得合照&quot;&gt;&lt;a href=&quot;#我们得合照&quot; class=&quot;headerlink&quot; title=&quot;我们得合照&quot;&gt;&lt;/a&gt;我们得合照&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/ab1f3d</summary>
-      
-    
-    
-    
-    
-    <category term="上线了个人生活相册" scheme="https://gitee.com/fuweiliang/hexo.github.io.git/tags/%E4%B8%8A%E7%BA%BF%E4%BA%86%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%B4%BB%E7%9B%B8%E5%86%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://gitee.com/fuweiliang/hexo.github.io.git/2023/02/07/hello-world/"/>
-    <id>https://gitee.com/fuweiliang/hexo.github.io.git/2023/02/07/hello-world/</id>
-    <published>2023-02-07T08:39:18.459Z</published>
-    <updated>2023-02-09T11:40:07.176Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="插入链接与图片"><a href="#插入链接与图片" class="headerlink" title="插入链接与图片"></a>插入链接与图片</h2><p><img src="https://img-blog.csdnimg.cn/f918b7dd254e4470b15fc2764531ed65.jpeg#pic_center" alt="可爱的老师"></p><p>图片: <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw" alt="Alt"></p><p>居中的图片: <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center" alt="Alt"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;插入链接与图片&quot;&gt;&lt;a href=&quot;#插入链接与图片&quot; class=&quot;headerlink&quot; title=&quot;插入链接与图片&quot;&gt;&lt;/a&gt;插入链接与图片&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/f918b7dd254e</summary>
-      
-    
-    
-    
     
   </entry>
   
